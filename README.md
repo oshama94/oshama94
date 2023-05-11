@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oshama94
-- 👀 I’m interested in C,C++,Web Designing(HTML,CSS,PHP,REACT,ANGULAR,JAVA,bootstrap),python,APP Development.
-- 🌱 I’m currently learning BCA(Bachelor of Computer Application)
+- 👀 I’m interested in C,C++,Web Designing(HTML,CSS,PHP,REACT,Javascript,bootstrap).
+- 🌱 I’m graduated in  BCA(Bachelor of Computer Application)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
